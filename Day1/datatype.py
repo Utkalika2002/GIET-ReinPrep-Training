@@ -1,0 +1,9 @@
+#datatypes
+name="Utkalika"
+print("name",name,type(name))
+rollno=289
+print("rollno",rollno,type(rollno))
+percentage=88.8
+student_yes_no=True
+complex_number=5+6j
+print("complex_number",complex_number,type(complex_number))
